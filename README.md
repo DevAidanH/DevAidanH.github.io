@@ -1,6 +1,2 @@
-# DevAidanH.github.io
-Project Title: Rock Paper Scissors. 
-Motivation: This project was one of my first projects at college. It was designed to be a simple fun game that tested my JavaScript skill at the time.
-Tech used: The site is written in pure HTML and designed with CSS. The game functionality is coded in vanilla JavaScript.
-Features: The user can click buttons to chose rock paper or scissors to try and beat the computer’s randomly generated choice. It is has a responsive mobile design.
-How to use: Go to aidanh.github.io and start by clicking one of the three buttons at the bottom.
+# Rock Paper Scissors
+This project is a Rock Paper Scissors browser game that can be used on desktop, tablet or mobile thanks to its responsive design. I started this project at college when I was first learning JavaScript. The project was written in pure HTML and styled with basic CSS. The functionality of the game is coded in vanilla JavaScript. This project allows users to click buttons to choose rock paper or scissors to try and beat the computer’s randomly generated choice. It is has a responsive mobile design. To play and test this game go to aidanh.github.io and start by clicking one of the three buttons at the bottom.
